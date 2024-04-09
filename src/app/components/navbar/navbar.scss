@@ -1,0 +1,6 @@
+:root {
+  padding: 1rem;
+  a ~ a {
+    margin-left: 1rem;
+  }
+}
